@@ -3,5 +3,9 @@ myself aadhityaadevara
 
 
 
-qwertyuiop
-asdfghjkl
+i am fresher
+linux
+Aix 
+
+
+python
